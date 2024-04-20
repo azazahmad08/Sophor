@@ -1,0 +1,23 @@
+{
+    "site_name": "Sophor Travel Agency",
+    "version": "1.0",
+    "author": {
+      "name": "Azaz Ahmad Swapnil",
+      "email": "engr.azaz08@gmail.com"
+    },
+    "packages_used": [
+      {
+        "name": "Tailwind",
+        "description": "Front-end framework for building responsive and mobile-first websites."
+      },
+      {
+        "name": "daisyui",
+        "description": "Used this library of tailwind to get responsive packages Ready"
+      }
+      
+    ],
+    "instructions": [
+      
+    ]
+  }
+  
